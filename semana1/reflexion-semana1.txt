@@ -1,0 +1,9 @@
+El uso responsable de la información, la participación ciudadana y las herramientas técnicas
+como Git están profundamente conectados en el entorno digital actual. Ser un buen ciudadano
+digital implica consumir y compartir contenido verídico, evitando la propagación de noticias
+falsas que afecten a la comunidad. Esta misma responsabilidad y ética se traslada al trabajo
+técnico cuando utilizamos herramientas de control de versiones. Git nos obliga a ser ordenados,
+transparentes y colaborativos al registrar cada cambio en nuestro código de manera clara.
+Por lo tanto, la organización en un repositorio no es solo un proceso técnico, sino una forma
+de participación ciudadana responsable, donde documentar bien nuestro trabajo demuestra respeto
+por el conocimiento compartido y por el equipo con el que interactuamos en la red.
