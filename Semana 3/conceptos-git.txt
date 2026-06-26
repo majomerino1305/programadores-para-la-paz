@@ -1,0 +1,5 @@
+Repositorio: Es como una carpeta inteligente o baúl digital donde se almacenan absolutamente todos los archivos, códigos y recursos de un proyecto. Su magia principal es que no solo guarda la última versión de lo que hacemos, sino que también memoriza todo el historial y la evolución del trabajo técnico a lo largo del tiempo.
+
+Commit: Es como tomar una fotografía instantánea del estado de nuestro proyecto en un momento específico. Sirve para guardar de manera oficial los cambios que hemos hecho, dejándoles una nota explicativa para saber exactamente qué se mejoró, qué se arregló o qué se añadió en ese paso del camino.
+
+Push: Es la acción de subir o enviar todas las fotografías (commits) y archivos que tenemos guardados localmente hacia el servidor en internet, que en este caso es GitHub. Esto permite que nuestro trabajo quede respaldado de forma segura en la nube y que otras personas del equipo puedan verlo y descargarlo.
