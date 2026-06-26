@@ -1,0 +1,9 @@
+La autonomía tecnológica es un pilar fundamental para el desarrollo de las comunidades.
+Cuando las iniciativas ciudadanas cuentan con la capacidad de construir sus herramientas
+propias mediante tecnologías abiertas como Node.js, disminuyen la dependencia de grandes
+corporaciones y evitan el software comercial costoso. Estas plataformas abiertas permiten
+diseñar soluciones específicas adaptadas a las realidades, problemas y necesidades locales.
+Además, al ser código abierto, se promueve la transparencia, la seguridad de los datos
+y el aprendizaje colaborativo dentro del mismo entorno social. En conclusión, dominar el
+desarrollo de servidores no es solo una ventaja técnica, sino una forma de empoderamiento
+que democratiza el acceso a la información y fortalece los procesos participativos de la red.
