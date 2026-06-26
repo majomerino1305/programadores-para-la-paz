@@ -1,0 +1,9 @@
+El dominio de la terminal es una habilidad fundamental para cualquier desarrollador de software.
+A diferencia de las interfaces gráficas, la línea de comandos permite navegar y organizar
+los archivos de un proyecto con muchísima mayor rapidez, precisión y control absoluto.
+A través de instrucciones sencillas, se pueden estructurar directorios y automatizar tareas
+que facilitan el flujo diario de trabajo. Además, comprender el funcionamiento de la terminal
+es el paso previo y obligatorio para integrar de forma correcta herramientas esenciales como Git.
+Una buena estructura de carpetas no solo demuestra profesionalismo, sino que también evita
+errores graves al subir cambios y asegura que el código sea comprensible para todo el equipo.
+Por lo tanto, la terminal no es un obstáculo, sino el motor que optimiza la gestión técnica.
