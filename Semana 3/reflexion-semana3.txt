@@ -1,0 +1,9 @@
+Mantener un registro detallado de cambios mediante herramientas como Git es vital en el software.
+En primer lugar, proporciona trazabilidad absoluta, permitiendo saber con exactitud quién hizo
+un cambio, qué se modificó y en qué fecha, lo que facilita detectar el origen de cualquier falla.
+Además, actúa como una red de seguridad indispensable; si un código nuevo daña el proyecto,
+es posible regresar de inmediato a una versión anterior que funcionaba de manera perfecta.
+Por otra parte, Git es el pilar fundamental que hace posible el trabajo en equipo organizado,
+ya que evita que los desarrolladores sobrescriban el trabajo de los demás por accidente.
+En resumen, el control de versiones transforma el caos en un proceso estructurado y seguro,
+garantizando la continuidad, la calidad y el orden en la evolución de cualquier sistema técnico.
