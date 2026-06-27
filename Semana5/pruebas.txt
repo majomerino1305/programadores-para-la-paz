@@ -1,0 +1,11 @@
+Ruta: http://localhost:3000
+Resultado:
+Al ingresar a esta ruta el servidor responde con el mensaje "Servidor activo". Esta es la ruta principal de la aplicación.
+
+Ruta: http://localhost:3000/saludo
+Resultado:
+Al ingresar a esta ruta el servidor responde con el mensaje "Hola comunidad".
+
+Ruta: http://localhost:3000/mensaje/juan
+Resultado:
+Al ingresar a esta ruta el servidor toma el nombre escrito en la URL y responde con el mensaje "Hola juan". Si se cambia el nombre en la URL, la respuesta también cambia.
