@@ -1,0 +1,3 @@
+Se realizó una petición POST a la ruta /registro enviando un objeto JSON con el nombre y el mensaje.
+El servidor recibió correctamente los datos mediante req.body y respondió con un nuevo objeto JSON confirmando que los datos fueron recibidos.
+La respuesta incluye el estado, el nombre enviado y el mensaje enviado por el usuario.
