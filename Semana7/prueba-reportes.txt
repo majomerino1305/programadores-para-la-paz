@@ -1,0 +1,3 @@
+Al enviar un reporte mediante la ruta POST /reportes, el servidor lo guarda en el arreglo reportes.
+Al consultar la ruta GET /reportes, el servidor devuelve la lista completa de reportes registrados en 
+formato JSON.
