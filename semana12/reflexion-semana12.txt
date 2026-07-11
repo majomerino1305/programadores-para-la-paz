@@ -1,0 +1,11 @@
+Durante este curso aprendí que la tecnología puede ser una herramienta 
+muy útil para fortalecer la participación ciudadana y la organización 
+comunitaria. Comprendí cómo crear servidores con Node.js y Express, 
+manejar rutas, trabajar con datos en formato JSON y entender el 
+funcionamiento de una API. También aprendí la importancia de proteger 
+la información mediante autenticación y buenas prácticas de seguridad. 
+Además, conocí cómo las bases de datos, la automatización con n8n y 
+herramientas como Telegram pueden mejorar la comunicación y el 
+seguimiento de las actividades comunitarias. Todo esto permite 
+desarrollar soluciones más organizadas, transparentes y útiles para 
+las comunidades.
