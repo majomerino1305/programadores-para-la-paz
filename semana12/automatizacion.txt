@@ -7,4 +7,4 @@ los detalles."
 
 Información que no debe enviarse:
 No se deben enviar cédulas, teléfonos, direcciones, contraseñas, 
-scomentarios privados, tokens ni otros datos personales o sensibles.
+comentarios privados, tokens ni otros datos personales o sensibles.
